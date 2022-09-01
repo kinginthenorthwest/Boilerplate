@@ -11,4 +11,4 @@ const app=express()
 app.set("veiws engine,ejs")
 app.set(("veiws","views"))
 
-app.list(0801)
+app.listen(0801)
